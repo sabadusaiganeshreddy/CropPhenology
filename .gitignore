@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (large)
+*.csv
+
+# Compiled files
+*.exe
+*.out
+*.o
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# HTML maps (can be large, regenerate as needed)
+phenology_maps/*.html
+*.html
+
+# Keep only essential files for repository
