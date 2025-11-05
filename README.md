@@ -114,3 +114,4 @@ This will:
 - Bare stage is default when greenness is low and no rising trend detected
 - All visualizations include colored backgrounds representing phenology stages
 - Progress is automatically saved during satellite extraction (every 10 plots)
+
